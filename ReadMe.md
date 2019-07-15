@@ -11,12 +11,12 @@
 
 #TASK
 >Tasks were provided to us by our instructor to solidy our research and learning about the particular agenda on that day. The tasks are
-[HTML / CSS](#tsk_HTMLCSS)
-[VanillaJS](#tsk_vanillaJS) 
-[Backend](#tsk_backend) 
+[HTML / CSS](#tsk_HTMLCSS) <br>
+[VanillaJS](#tsk_vanillaJS) <br>
+[Backend](#tsk_backend) <br>
 
 
-### HTML / CSS Tasks!
+### <a name="tsk_HTMLCSS"></a>HTML / CSS Tasks!
 |  TASK  |                  Objectives                  |                         
 |--------|----------------------------------------------|
 |[Task 01](https://github.com/Prelisa/Bitsbeat/tree/master/TASK%201) | HTML/CSS Login Form                 |
@@ -26,7 +26,7 @@
 |[Task 05](https://github.com/deepeshshrestha/bb_task_05_project-bootstrap_June20) | HTML/CSS Bootstrap Group[2] Project                 |
 |[Task 05](https://github.com/deepeshshrestha/bb_task_05_project-bootstrap-responsive_June20) | UPDATE: HTML/CSS Bootstrap Group[2] Project  RESPONSIVE|
 
-### VanillaJS Tasks!
+### <a name="tsk_vanillaJS"></a>VanillaJS Tasks!
 |  TASK  |                  Objectives                  |                         
 |--------|----------------------------------------------|
 |[Task 06](https://github.com/Prelisa/Bitsbeat/tree/master/task1_JS) | JS Add form validation to Task 01                  |
@@ -38,7 +38,7 @@
 |[Task 13](https://github.com/Prelisa/Bitsbeat/tree/master/weather-app) | JS Weather Application                |
 
 
-### Backend Tasks!
+### <a name="tsk_backend"></a>Backend Tasks!
 |  TASK  |                  Objectives                  |                         
 |--------|----------------------------------------------|
 |[Task 01](https://github.com/Prelisa/BitsBeat_Backend_NodeJS/tree/master/Project1) |Create a simple nodeJS app for query, parsing and manipulation of JSON|
